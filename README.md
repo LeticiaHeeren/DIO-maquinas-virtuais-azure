@@ -1,5 +1,7 @@
 # DIO-maquinas-virtuais-azure
+
 Nesse repositório reumirei o que aprendi e explorei com as lições aprendidas durante as aulas como proposto no desafio da DIO.
+
 Durante as aulas sobre máquinas virtuais no Azure, aprendi a criar, configurar e gerenciar esses recursos essenciais para a infraestrutura em nuvem. O primeiro passo foi entender a importância dos Grupos de Recursos, que permitem organizar e gerenciar todos os serviços relacionados. Após configurar um grupo, iniciei a criação de uma máquina virtual, escolhendo um sistema operacional adequado, alocando CPU, memória e armazenamento conforme a necessidade do projeto e definindo configurações de rede para garantir conectividade eficiente.
 
 A segurança e o acesso remoto foram aspectos fundamentais no processo. Configurei credenciais seguras e habilitei o protocolo de comunicação adequado para gerenciar a máquina remotamente. Além da configuração inicial, aprendi a importância do monitoramento contínuo. O Azure Monitor permite acompanhar métricas como uso de CPU, memória e disco, ajudando a identificar e corrigir possíveis gargalos de desempenho. Para uma análise mais detalhada, utilizei o Log Analytics, que fornece dados completos sobre o comportamento do sistema e facilita a resolução de problemas.
